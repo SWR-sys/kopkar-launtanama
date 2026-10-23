@@ -1,0 +1,6 @@
+{
+  "name": "Kopkar Lautanama - Sistem Simpan Pinjam Koperasi Karyawan",
+  "description": "Sistem Informasi Koperasi Karyawan Kopkar Lautanama untuk pengelolaan simpanan wajib, pokok, sukarela, pinjaman multi-tenor, potong gaji kolektif, dan dashboard real-time anggota & pengurus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
